@@ -1,8 +1,8 @@
-# Colourisation_w_Capsules
+## Colourisation_w_Capsules
 Project ColorCapsules: model based on capsules for colourization of greyscale images
 
 
-Is It a Plausible Colour? UCapsNet for Image Colourisation
+# Is It a Plausible Colour? UCapsNet for Image Colourisation
 
 Human beings can imagine the colours of a grayscale image with no particular effort thanks to their ability of semantic feature extraction. Can an autonomous system achieve that? Can it hallucinate plausible and vibrant colours?
 This is the colourisation problem.
@@ -14,3 +14,4 @@ A decoding phase merges the entity features with the spatial features to halluci
 Results on the ImageNet benchmark show that our approach is able to generate more vibrant and plausible colours than exiting solutions and achieves superior performance than models pre-trained with supervision.
 
 
+Paper published at Self Supervised Learning workshop @ Neurips2020
