@@ -15,3 +15,10 @@ Results on the ImageNet benchmark show that our approach is able to generate mor
 
 
 Paper published at Self Supervised Learning workshop @ Neurips2020
+
+# Architecture and paper
+
+The architecture proposed in this repository is described as follow:
+
+If you like to have more detailed information, plese read: https://arxiv.org/abs/2012.02478
+
