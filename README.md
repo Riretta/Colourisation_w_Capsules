@@ -16,16 +16,18 @@ Results on the ImageNet benchmark show that our approach is able to generate mor
 
 Paper published at Self Supervised Learning workshop @ Neurips2020
 
-# Architecture and paper
+## Architecture and paper:
 
 The architecture proposed in this repository is described as follow:
-![](U_Net_Imagenet_Niki.png)
+<img src="U_Net_Imagenet_Niki.png" width=600 align=center>
 
 If you like to have more detailed information, plese read: https://arxiv.org/abs/2012.02478
 
-#If you use our architecture for your study please refer us:
+## If you use our architecture for your study please refer us:
 
-*Is It a Plausible Colour? UCapsNet for Image Colourisation\\
-Rita Pucci, Christian Micheloni, Gian Luca Foresti, Niki Martinel\\
-arXiv:2012.02478, 2020*
+*Is It a Plausible Colour? UCapsNet for Image Colourisation*
+
+*Rita Pucci, Christian Micheloni, Gian Luca Foresti, Niki Martinel*
+
+*arXiv:2012.02478, 2020*
 
