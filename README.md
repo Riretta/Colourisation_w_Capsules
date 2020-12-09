@@ -19,6 +19,6 @@ Paper published at Self Supervised Learning workshop @ Neurips2020
 # Architecture and paper
 
 The architecture proposed in this repository is described as follow:
-
+![alt text](http://url/to/img.png)
 If you like to have more detailed information, plese read: https://arxiv.org/abs/2012.02478
 
