@@ -26,6 +26,8 @@ If you like to have more detailed information, plese read: https://arxiv.org/abs
 #If you use our architecture for your study please refer us:
 
 Is It a Plausible Colour? UCapsNet for Image Colourisation
+
 Rita Pucci, Christian Micheloni, Gian Luca Foresti, Niki Martinel
+
 arXiv:2012.02478, 2020
 
