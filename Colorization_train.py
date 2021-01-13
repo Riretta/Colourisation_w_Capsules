@@ -10,7 +10,7 @@ from skimage.color import rgb2lab
 from training_layers import PriorBoostLayer, NNEncLayer, NonGrayMaskLayer
 from data_imagenet import TrainImageFolder, ValImageFolder, ValTrainImageFolder
 from utils import rfolder, save_checkpoint, isnan, _decodeAB, _decode
-from U_CapsNet_Niki import CapsNet_MR as UCapsNet        # <---------------------MODEL
+from U_CapsNet import CapsNet_MR as UCapsNet        # <---------------------MODEL
 ############################################################################################################
 # Training procedure for U_CapsNet*.
 # ###########SET VAR########################################################################################
