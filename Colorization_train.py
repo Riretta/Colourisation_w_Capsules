@@ -15,7 +15,7 @@ from model.U_CapsNet import CapsNet_MR as UCapsNet        # <-------------------
 # Training procedure for U_CapsNet*.
 # ###########SET VAR########################################################################################
 AnnealedMean = False
-file_model_name = "U_CapsNet_Niki_Q_batch_overfit"
+file_model_name = "U_CapsNet"
 CUDA, db_used = "cuda", 'ImageNet'
 ADAM_LR = 1e-3
 n_epochs = 100
