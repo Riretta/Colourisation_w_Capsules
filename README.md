@@ -31,3 +31,4 @@ If you like to have more detailed information, plese read: https://arxiv.org/abs
 
 *arXiv:2012.02478, 2020*
 
+https://sslneuips20.github.io/files/CameraReadys%203-77/45/CameraReady/NeurIPS_2020_camera_ready.pdf 
