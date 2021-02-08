@@ -1,3 +1,6 @@
+#Some ot the utilities in this code, are originally part of https://github.com/richzhang/colorization 
+#If you use these utilities, please refer also to the work mentioned above
+
 from PIL import Image
 import numpy as np
 from skimage import color
