@@ -22,7 +22,7 @@ https://sslneuips20.github.io/files/CameraReadys%203-77/45/CameraReady/NeurIPS_2
 The architecture proposed in this repository is described as follow:
 <img src="U_Net_Imagenet_Niki.png" width=600 align=center>
 
-If you like to have more detailed information, plese read: https://arxiv.org/abs/2012.02478
+If you like to have more detailed information, please read: https://arxiv.org/abs/2012.02478
 
 ## If you use our architecture for your study please refer us:
 
